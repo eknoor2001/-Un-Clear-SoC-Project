@@ -16,3 +16,7 @@ What I Learned:-
   - Learnt about Tensor Flow from the Udacity Course
   - Digit Recogniser using CNN from the concepts learnt above [detailed in Assignment 2 folder]
 
+# Week 3:
+  - Learning about a new convolutional model: ResNet
+  - 
+
