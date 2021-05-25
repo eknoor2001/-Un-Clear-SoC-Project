@@ -21,7 +21,7 @@ model.compile(optimizer='adam',
               metrics=['accuracy'])
 
 #training the model
-model.fit(training_data, training_labels, epochs=7)
+model.fit(training_data, training_labels, epochs=5)
 
 #testing our model
 model.evaluate(test_data, test_labels)
