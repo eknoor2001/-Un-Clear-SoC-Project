@@ -11,3 +11,8 @@ What I Learned:-
   - OpenCV Tutorial taught me about dozens of image processing functions, which helped me do the Assignment 1 [detailed in Assignment 1 folder] 
   - PART 1 Google Machine Learning Course began with a basic introduction to concepts of machine learning, which will be continued in Week 2
 
+# Week 2:
+  - Completed the Google Machine Learning Course
+  - Learnt about Tensor Flow from the Udacity Course
+  - Digit Recogniser using CNN from the concepts learnt above [detailed in Assignment 2 folder]
+
