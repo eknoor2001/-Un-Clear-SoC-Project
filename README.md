@@ -18,5 +18,10 @@ What I Learned:-
 
 # Week 3:
   - Learning about a new convolutional model: ResNet
-  - 
+  - Introduction to GAN [Generative Adversial Network] and Conditional GAN (CGAN)
+  - Implementation of CGAN [in Assignment 3 folder]
+
+# Week 4:
+  - Lerant about the latest SRGAN and ESRGAN reading the original papers about them
+  - Implemented the ESRGAN model [in Assignment 4 folder]
 
