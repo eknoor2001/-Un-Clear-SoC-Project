@@ -39,7 +39,7 @@
   - Studied one of the latest papers in this field, about Super-Resolution Generative Adversarial Networks (SRGAN) and  Enhanced Super-Resolution Generative Adversarial Networks (ESRGAN), which are much more advanced GANs by reading the original papers written: [SRGAN Link](https://arxiv.org/abs/1609.04802), [ESRGAN Link](https://arxiv.org/abs/1809.00219). 
   - **Final Implementation/ASSIGNMENT 4:** Implemented the ESRGAN model using the [tutorial provided](https://medium.com/analytics-vidhya/esrgan-enhanced-super-resolution-generative-adversarial-network-using-keras-a34134b72b77): Explained in [Assignment 4 folder](https://github.com/eknoor2001/-Un-Clear-SoC-Project/tree/main/Assignment%204%20ESRGAN%20Implementation)
 
-### Week 6: Final Implementation, Documentation [12 Jul '21 - 18 Jul '21] 
+### Week 8: Final Implementation, Documentation and Submission [12 Jul '21 - 18 Jul '21] 
   - Final ESRGAN model implementation was refined
   - Proper documentation of the project report, including this ReadMe file
   - Video Report Making
