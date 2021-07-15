@@ -1,6 +1,6 @@
 # (Un)Clear SoC Project 2021
 
-#### Repository for (Un)Clear SoC Project, done in the Summer of 2021. 
+**Repository for (Un)Clear SoC Project, done in the Summer of 2021. 
 
 
 
