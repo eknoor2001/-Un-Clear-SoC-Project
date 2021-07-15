@@ -10,7 +10,7 @@
 
 
 
-##Course of the Project, Files' Description and What I Learned:
+## Course of the Project, Files' Description and What I Learned:
 
 ### Week 0: Basic Python Tutorial and Introduction to GitHub [24 Mar '21 - 30 Mar '21] 
   - Complete Python tutorial, that helped me revise concepts I learned earlier in Python and got to know about a few new functions, libraries, etc. [Link to tutorial](https://www.youtube.com/watch?v=_uQrJ0TkZlc&ab_channel=ProgrammingwithMosh)
