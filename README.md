@@ -1,6 +1,7 @@
 # (Un)Clear SoC Project 2021
 
 ***Repository for (Un)Clear SoC Project, done in the Summer of 2021.***
+Final Video Presentation [Link](https://drive.google.com/file/d/1oeQQC-s6b6Nw7eJ576eNpydoPjJJ3r23/view?usp=sharing)
 
 
 
